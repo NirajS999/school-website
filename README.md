@@ -8,11 +8,9 @@ Make sure you have the following installed on your machine:
 - Git
 - Node.js
 - npm (Node Package Manager)
-- Cloning the Repository
 
-### git clone 
-https://github.com/NirajS999/school-website
-
+### Cloning the Repository
+git clone https://github.com/NirajS999/school-website
 cd school-website
 Installation
 
@@ -20,8 +18,8 @@ Installation
 npm install
 
 ### Running the Project
-npm start
-Open http://localhost:3000 in your browser to view the project.
+- npm start
+- Open http://localhost:3000 in your browser to view the project.
 
 ### Additional Technologies
 - Swiper.js - for Swiper

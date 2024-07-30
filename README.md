@@ -23,6 +23,10 @@ npm install
 npm start
 Open http://localhost:3000 in your browser to view the project.
 
+### Additional Technologies
+- Swiper.js - for Swiper
+- Email.js - for contact form
+- Toastify - for Notification
 ### Homepage
 
 - This page has all the categories with are required for the website.

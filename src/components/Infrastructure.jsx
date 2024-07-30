@@ -9,7 +9,7 @@ const Infrastructure = () => {
         <div className='lg:w-3/12'>
           <img src="../infrastructure.avif" alt="Infrastructure" className='w-full'  />
         </div>
-        <div className='flex items-center'>
+        <div className='flex items-center shadow-2xl px-4'>
             <ul className='list-inside list-circle'>
             {infrastructure.map((data)=>(
                 <li className='my-2 text-lg'>{data}</li>

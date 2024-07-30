@@ -69,7 +69,7 @@ const Contact = () => {
                 required
                 />
             </div>
-            <input className="my-4 font-bold h-12 rounded-md border border-gray-900 bg-gray-400 py-2 px-6 hover-effect" type="submit" value="Submit" />
+            <input className="my-4 font-semibold h-12 rounded-md bg-gray-400 shadow-lg shadow-gray-400/50 py-2 px-6 hover-effect hover:ring-2" type="submit" value="Submit" />
             </form>
             </div>
         </div>

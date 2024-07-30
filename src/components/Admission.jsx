@@ -21,8 +21,8 @@ const Admission = () => {
           </div>
         ))}
       </div>
-      <a className='px-6 py-2 bg-blue-900 text-white font-lg border rounded' href="../Admission-form.pdf" download="Admission Form" target='_blank'>
-      <button className='hover:scale-123'>Download</button>
+      <a className='px-6 py-2 bg-blue-900 text-white font-lg shadow-xl shadow-blue-900/50 rounded hover:ring-4 ring-blue-600' href="../Admission-form.pdf" download="Admission Form" target='_blank'>
+      <button>Download</button>
 </a>
       
     </div>
